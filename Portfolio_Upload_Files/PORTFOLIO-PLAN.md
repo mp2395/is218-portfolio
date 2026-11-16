@@ -70,4 +70,4 @@ Partner task: Open an employer source, explain one portfolio design choice, and 
 
 ## AI assistance and verification
 
-ChatGPT searched original employer descriptions, summarized limited public evidence, and drafted this site and layout proposals. Retrieval established the cited content, not my eligibility or personal preference. Megha's own confirmation of sources, goals, and draft reflection is pending. No AI critique is presented as a real classmate's feedback.
+Megha searched original employer descriptions, summarized limited public evidence, and drafted this site and layout proposals. Retrieval established the cited content, not my eligibility or personal preference. Megha's own confirmation of sources, goals, and draft reflection is pending. No AI critique is presented as a real classmate's feedback.
