@@ -1,7 +1,7 @@
-# IS218 Review 1 — Portfolio
+# Megha Patel — Portfolio Review 2
 
-Plan-stage documentation prepared with AI assistance. Read [PORTFOLIO-PLAN.md](PORTFOLIO-PLAN.md) for decisions, evidence, and pending work.
+Upload the CONTENTS of this folder to the ROOT of the existing is218-portfolio repository. Preserve existing history. index.html is Layout A; layout-b.html is Layout B; both use the same content. research.html preserves the career research site within this browsable portfolio. resume.html and Megha_Patel_Resume_Draft.pdf are drafts to confirm.
 
-[Research website source](docs/index.html). Publish main /docs with GitHub Pages.
+GitHub Pages: main / (root). No build is needed. Inspect local HTML before upload; verify the actual deployed URLs afterward.
 
-See [checks](CHECKS.md) and [real peer review](PEER-REVIEW.md). No application runtime tests or human review are claimed.
+The exact LinkedIn URL was not supplied and is labeled missing. Do not insert a generic or guessed profile. Student résumé verification and real peer walkthrough remain pending. See PORTFOLIO-PLAN.md, CHECKS.md, and REVIEW-TASK.md.

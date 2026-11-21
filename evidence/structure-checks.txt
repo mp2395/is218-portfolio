@@ -1,0 +1,6 @@
+PASS creative/index.html: local links, fragment targets, unique IDs
+PASS portfolio/research.html: local links, fragment targets, unique IDs
+PASS portfolio/index.html: local links, fragment targets, unique IDs
+PASS portfolio/layout-b.html: local links, fragment targets, unique IDs
+PASS portfolio/resume.html: local links, fragment targets, unique IDs
+PASS portfolio: identical project/about/materials/research sections in both layouts
