@@ -4,4 +4,4 @@ Upload the CONTENTS of this folder to the ROOT of the existing is218-portfolio r
 
 GitHub Pages: main / (root). No build is needed. Inspect local HTML before upload; verify the actual deployed URLs afterward.
 
-The exact LinkedIn URL was not supplied and is labeled missing. Do not insert a generic or guessed profile. Student résumé verification and real peer walkthrough remain pending. See PORTFOLIO-PLAN.md, CHECKS.md, and REVIEW-TASK.md.
+Megha supplied her exact LinkedIn profile URL; it is included in both layouts and the résumé draft. Do not insert a generic or guessed profile. Student résumé verification and real peer walkthrough remain pending. See PORTFOLIO-PLAN.md, CHECKS.md, and REVIEW-TASK.md.
